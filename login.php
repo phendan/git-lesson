@@ -12,6 +12,10 @@
     <form action="">
         <label>Username</label>
         <input type="text">
+
+        <label for="">Password</label>
+        <input type="password">
+
         <input type="submit">
     </form>
 </body>
